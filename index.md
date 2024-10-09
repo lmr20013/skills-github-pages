@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Lela Romeo: Welcome to my blog!
 ---
 
